@@ -42,4 +42,13 @@ Variables
 Results
 =======
 
-After you have submitted all the variables the calculations will return the amount of irrigation your crops need. This is again in liters per square meters or milimeters per square meter. Therefore you would still need to understand the speed of your irrigation system, i.e. how many seconds does it take for your pipe to output 1 liter? This way you know how many second you need to irrigate every square meter.
+After you have submitted all the variables the calculations will return the amount of irrigation your crops need. This is again in liters per square meters or milimeters per square meter. The calculations first find out what the evaporation via the soil and transpiration via the crop is. This totals the evapotranspiration that is compared to the rainfall to gain the irrigation requirements of the day. Therefore you would still need to understand the speed of your irrigation system, i.e. how many seconds does it take for your pipe to output 1 liter? This way you know how many second you need to irrigate every square meter.
+
+References
+==========
+
+1. RefET (2019) Computing daily and hourly reference ET following the ASCE Standardized Reference Evapotranspiration Equations (ASCE 2005). https://pypi.org/project/refet/
+
+2. ASCE-EWRI (2005). The ASCE standardized reference evapotranspiration equation. https://ascelibrary.org/doi/book/10.1061/9780784408056
+
+3. Departement Landbouw & Visserij (2020) Berekening irrigatiebehoefte per seizoen. https://lv.vlaanderen.be/nl/voorlichting-info/publicaties/praktijkgidsen/water/duurzaam-watergebruik-de-openluchtgroenteteelt-5
