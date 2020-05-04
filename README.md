@@ -17,16 +17,17 @@ Variables
 
 3. Solar radiation: This is a bit more difficult, the units are megajoules per square meter per day. If you found this, then it is straightforward. However, it is often saved in watts per square meter, this equals one joule per square meter per second. So to convert from watts per square meter you need to multiply by 3600 and then multiply with the hours of daylight on the day of measurement.
 
-Example: 500 watts per square meter = 500 joules per second per square meter
+          Example: 500 watts per square meter = 500 joules per second per square meter
+          This results in 27 megajoules per square meter per day
 
-          multiply by 3600 for 1 hour 
+          1. multiply 500 watts per square meter by 3600 for 1 hour 
           -> 1 800 000 joules per hour per square meter
           
-          multiply with the hours in the case of 15 hours of daylight
+          2. multiply the result with the hours daylight, in this case 15 hours
           -> 27 000 000 joules per square meter per day
           
-          divide by 1 000 000 to get the amount in megajoules per square meter per day 
-          -> 27 megajoules per square meter per day
+          3. divide the result by 1 000 000 to get the amount in megajoules per square meter per day 
+          ==> 27 megajoules per square meter per day
 
 4. Wind speed: This is measured in kilometers per hour and needs to be converted if you have it in meters per second or miles per hour.
 
