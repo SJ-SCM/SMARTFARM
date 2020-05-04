@@ -1,4 +1,4 @@
-# SMARTFARM
+# CROP IRRIGATION ASCE-EWRI (2005)
 
 To start the program, download the entire content of the repository as a compressed file. Then extract the contents on your local computer and launch the calculator with the main file.
 
