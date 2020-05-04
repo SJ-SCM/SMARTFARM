@@ -1,8 +1,6 @@
 # SMARTFARM
 
-Download link: https://1drv.ms/u/s!Amj1eVQIR8ZrjTSGxH1pqqnazDgJ?e=aOf45y
-
-To start the program, download the entire contents of the folder as a compressed file. Then extract the contents on your local computer and launch the calculator with the main file.
+To start the program, download the entire contents of the repository as a compressed file. Then extract the contents on your local computer and launch the calculator with the main file.
 
 To calculate the irrigation requirements for your crop, you will need several parameters. Then you will be able to find the amount in liters per square meter of water you need to supply your crop. The calculations use the reference crop of short grass. You can find what your specific crop requirements are in comparison to the short grass reference, however, they do not vary much from the reference crop. The program was written with functions from the RefET library in python, however no coding is required to launch the app. 
 
