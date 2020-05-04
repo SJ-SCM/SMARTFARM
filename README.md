@@ -19,11 +19,14 @@ Variables
 
 Example: 500 watts per square meter = 500 joules per second per square meter
 
-          multiply by 3600 for 1 hour -> 1 800 000 joules per hour per square meter
+          multiply by 3600 for 1 hour 
+          -> 1 800 000 joules per hour per square meter
           
-          multiply with the hours of daylight at 15 hours -> 27 000 000 joules per square meter per day
+          multiply with the hours of daylight at 15 hours 
+          -> 27 000 000 joules per square meter per day
           
-          divide by 1 000 000 to get the amount in megajoules per square meter per day -> 27 megajoules per square meter per day
+          divide by 1 000 000 to get the amount in megajoules per square meter per day 
+          -> 27 megajoules per square meter per day
 
 4. Wind speed: This is measured in kilometers per hour and needs to be converted if you have it in meters per second or miles per hour.
 
