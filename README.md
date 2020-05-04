@@ -11,7 +11,7 @@ The calculations are for the daily requirements. What I usually do is wait until
 Variables
 =========
 
-1. Dew point: This variable has the unit of degrees celsisus, enter the whole number or decimal as input and convert from fahrenheit if necessary.
+1. Dew point: This variable has the unit of degrees celsius, enter the whole number or decimal as input and convert from fahrenheit if necessary.
 
 2. Temperature: This is also in degrees celsius in whole or decimal numbers.
 
@@ -22,7 +22,7 @@ Example: 500 watts per square meter = 500 joules per second per square meter
           multiply by 3600 for 1 hour 
           -> 1 800 000 joules per hour per square meter
           
-          multiply with the hours of daylight at 15 hours 
+          multiply with the hours in the case of 15 hours of daylight
           -> 27 000 000 joules per square meter per day
           
           divide by 1 000 000 to get the amount in megajoules per square meter per day 
