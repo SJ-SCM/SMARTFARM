@@ -55,4 +55,4 @@ References
 
 4. World Bank (2017) Cereal yield (kg per hectare). https://data.worldbank.org/indicator/AG.YLD.CREL.KG 
 
-5. World Bank (2016) Arable land (hectare per person). https://data.worldbank.org/indicator/AG.LND.ARBL.HA.PC
+5. World Bank (2016) Arable land (hectares per person). https://data.worldbank.org/indicator/AG.LND.ARBL.HA.PC
