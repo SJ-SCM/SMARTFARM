@@ -49,6 +49,10 @@ References
 
 1. RefET (2019) Computing daily and hourly reference ET following the ASCE Standardized Reference Evapotranspiration Equations (ASCE 2005). https://pypi.org/project/refet/
 
-2. ASCE-EWRI (2005). The ASCE standardized reference evapotranspiration equation. https://ascelibrary.org/doi/book/10.1061/9780784408056
+2. ASCE-EWRI (2005) The ASCE standardized reference evapotranspiration equation. https://ascelibrary.org/doi/book/10.1061/9780784408056
 
 3. Departement Landbouw & Visserij (2020) Berekening irrigatiebehoefte per seizoen. https://lv.vlaanderen.be/nl/voorlichting-info/publicaties/praktijkgidsen/water/duurzaam-watergebruik-de-openluchtgroenteteelt-5
+
+4. World Bank (2017) Cereal yield (kg per hectare). https://data.worldbank.org/indicator/AG.YLD.CREL.KG 
+
+5. World Bank (2016) Arable land (hectare per person). https://data.worldbank.org/indicator/AG.LND.ARBL.HA.PC
