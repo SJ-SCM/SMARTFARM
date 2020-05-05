@@ -42,6 +42,8 @@ Results
 
 After you have submitted all the variables the calculations will return the amount of irrigation your crops need. This is again in liters per square meters or milimeters per square meter. The calculations first find out what the evaporation via the soil and transpiration via the crop is. This totals the evapotranspiration that is compared to the rainfall to gain the irrigation requirements of the day. Therefore you would still need to understand the speed of your irrigation system, i.e. how many seconds does it take for your pipe to output 1 liter? This way you know how many second you need to irrigate every square meter.
 
+According to current statistics at the world bank, high income countries currently produce up to 600-700 kilograms of non-meat products per person per year. However, meat consumption has risen in higher income countries to 100 kilograms per year, with every kilogram of meat taking up to 20 kilograms of cereals to feed the livestock. Thereby, this amounts to 2200 or more kilograms per person per year. Therefore, these statistics cannot be sustained in the long term for having universal zero hunger results.
+
 References
 ==========
 
