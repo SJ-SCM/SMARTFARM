@@ -28,6 +28,12 @@ Variables
           ==> 27 megajoules per square meter per day
           
 There is also a more accurate method, this is where you sum up the value in watts per square meters for every hour of the day and then multiply the sum by 0.0036 to get the amount of megajoules per square meter.
+          
+          1. sum of: solar radiation 1 a.m. + 2 a.m. + ... 11 p.m. + 12 a.m. 
+          -> In our example the sum equals 7500
+          
+          2. multiply the sum by 0.0036 
+          -> 7500 * 0.0036 = 27 megajoules per square meter per day
 
 4. Wind speed: This is measured in kilometers per hour and needs to be converted if you have it in meters per second or miles per hour.
 
