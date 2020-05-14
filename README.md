@@ -37,9 +37,9 @@ There is also a more accurate method, this is where you sum up the value in watt
 
 4. Wind speed: This is measured in kilometers per hour and needs to be converted if you have it in meters per second or miles per hour.
 
-5. Day of year: This asks the calendar day with January 1st as day 1, an example would be May 4th 2020 is day 125.
+5. Day of year: This asks the calendar day with January 1st as day 1, an example would be May 4th 2020 is 125 as a positive whole number.
 
-6. Altitude: This asks for meters above sealevel of your location of measurement, conversion is needed from feet or kilometer.
+6. Altitude: This asks for a whole or decimal number in meters above sealevel of your location of measurement, conversion is needed from feet or kilometer.
 
 7. Latitude: This is asked as a decimal value for your location, sometimes it is noted in degrees so you would need to convert it.
 
